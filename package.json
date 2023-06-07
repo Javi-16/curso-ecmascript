@@ -1,0 +1,15 @@
+{
+  "name": "curso-ecmascript",
+  "version": "1.0.0",
+  "description": "\u0016Curso de ECMAScript: Historia y Versiones de JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript",
+    "ECMA"
+  ],
+  "author": "Javier Eduardo Quiroga Amaya <jeqa2004.7916@gmail.com>",
+  "license": "MIT"
+}
