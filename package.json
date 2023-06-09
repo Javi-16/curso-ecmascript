@@ -11,5 +11,6 @@
     "ECMA"
   ],
   "author": "Javier Eduardo Quiroga Amaya <jeqa2004.7916@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }
